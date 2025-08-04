@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Vinicius Athie
 
-<!--
-**Viniathie12363/Viniathie12363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante dedicado e curioso, com foco em desenvolvimento de projetos de dados e logística.
 
-Here are some ideas to get you started:
+💡 Atualmente estudando:
+- Python aplicado à análise de dados
+- SQL para manipulação de dados
+- Power BI para visualização estratégica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Buscando aplicar meus conhecimentos em soluções práticas que agreguem valor aos negócios.
+
+📈 Experiência com:
+- Logística reversa
+- Queima de estoque
+- Otimização de processos no sistema Delage
+
+📫 Me conecte no [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+🌱 Em constante evolução!
