@@ -14,5 +14,5 @@
 - Queima de estoque
 - Otimização de processos no sistema Delage
 
-📫 Me conecte no [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+📫 Me conecte no [LinkedIn](https://www.linkedin.com/in/vinicius-athie/)  
 🌱 Em constante evolução!
